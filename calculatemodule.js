@@ -49,7 +49,10 @@
 
 }
 
-export { calculate };
+module.exports = { calculate };
+
+ 
+
 
 
 
